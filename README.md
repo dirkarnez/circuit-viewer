@@ -4,6 +4,8 @@
 - [dirkarnez/kicad-symbol-to-svg](https://github.com/dirkarnez/kicad-symbol-to-svg)
 - [ ] SVG does not work, during conversion pins' positiion are lost
   - instead, parse `.kicad_sym` directly
+  	- https://github.com/theacodes/kicanvas/blob/main/src/viewers/schematic/painter.ts
+   	- https://github.com/theacodes/kicanvas/blob/main/src/viewers/schematic/painters/pin.ts
     - ```s
       ...
       (pin passive line
