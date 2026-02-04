@@ -46,3 +46,4 @@
 				)
 			)
       ```
+- [Drag and Drop Collision Detection Demo | Konva - JavaScript 2d canvas library](https://konvajs.org/docs/sandbox/Collision_Detection.html)
